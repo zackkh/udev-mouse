@@ -98,7 +98,7 @@ username : john
 
     $ sudo systemctl restart udev.service
 
-10- plug in your mouse and open /home/<username>/output.txt:
+10- plug in your mouse and open /home/{user}/output.txt:
 
     // output
     1 0 3 4 5 6 7 8 9  | Thu Aug 13 19:02:31 +01 2020
