@@ -63,6 +63,7 @@ username : john
 
 
 6- create your rules:
+
     --- XINPUT WON'T LAUNCH UNDER WAYLAND ---
     $ echo $XAUTHORITY
     
