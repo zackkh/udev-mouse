@@ -1,0 +1,1 @@
+ENV{DISPLAY}=":0.0", ENV{XAUTHORITY}="/home/john/.Xauthority", ACTION=="bind", ATTRS{idVendor}=="18f8", ATTRS{idProduct}=="0f97", RUN+="/home/john/mouse_script/killMouse.sh"
