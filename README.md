@@ -11,7 +11,7 @@ username : john
     
     $ cd
 
-2- open a new Terminal:
+2- run:
 
     $ sudo udevadm monitor
 
