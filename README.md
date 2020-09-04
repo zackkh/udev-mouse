@@ -23,8 +23,6 @@ username : john
     
     // the last ACTION performed by my system is "bind", take note of yours
     
-    // unplug your mouse
-
 4- open another Terminal/Tab:
 
     $ lsusb
